@@ -3,6 +3,6 @@ Pure-CSS3-South-Park
 
 Pure CSS3 South Park
 
-Exemplo:
+Example:
 
 http://brunoquadrotti.com/southpark/
